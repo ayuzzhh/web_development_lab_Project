@@ -9,7 +9,7 @@ Technologies: HTML, CSS, JavaScript (website) + PHP (server) + MySQL (database).
 ## 1. How to run
 
 1. Install XAMPP. Start **Apache** and **MySQL** in the XAMPP Control Panel.
-2. Copy the `Woober` folder into `C:\xampp\htdocs\`.
+2. Copy the `webD_Project` folder into `C:\xampp\htdocs\`.
 3. Open http://localhost/webD_Project/ in the browser.
 
 Admin login: `admin@woober.com` / `admin123`. The database, the tables, the admin account and 4 sample products are created automatically the first time a page asks the server for data.
